@@ -97,7 +97,7 @@ ylabel('Amplitude');
 
 subplot(5,2,9)
 plot(1:1000,filter_output_BLMS(1:1000))       % Plot of filtered output
-% title('Filtered Signal');
+title('Filtered Signal');
 xlabel('Frequency');
 ylabel('Amplitude');
 
