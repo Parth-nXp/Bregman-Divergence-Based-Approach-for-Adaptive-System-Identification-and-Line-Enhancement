@@ -1,6 +1,6 @@
 clc;
 clear all;
-% close all;
+close all;
 
 mu_KLLMS = 0.002;
 mu_ISLMS = 0.002;
